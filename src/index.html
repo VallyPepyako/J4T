@@ -1,0 +1,69 @@
+<!doctype html>
+<html class="">
+<head>
+  <meta charset="utf-8">
+  <title>j4t - главная</title>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="//www.google-analytics.com" rel="dns-prefetch">
+  <script src="assets/components/modernizr/modernizr.js"></script>
+</head>
+
+<body>
+  <section class="jft_container jft_container--flex">
+    {% include "./components/header.html" %}
+  </section>
+  <section class="jft_container jft_container--flex">
+    {% include "./components/navigation.html" %}
+  </section>
+  <section class="jft_container jft_container--flex jft_container--main-card">
+    {% for article in data.articles %}
+      {% include "./components/article-card.html" %}
+    {% endfor %}
+  </section>
+  <section class="jft_container">
+    {% include "./components/article-category.html" %}
+  </section>
+  {% include "./components/footer.html" %}
+  <main class="main" role="main">
+    <div class="jft_container">
+      <h1 class="ui ui__header">H1 Header</h1>
+      <h2 class="ui ui__sub-header">H2 Header</h2>
+      <h3 class="ui ui__third-header">H3 Header</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad provident reprehenderit dolores facilis nam nisi aspernatur optio libero exercitationem veniam cum velit ullam quae, accusamus totam dolorum nesciunt delectus?</p>
+      <h1 class="ui ui__header">Заголовок №1</h1>
+      <h2 class="ui ui__sub-header">Заголовок №2</h2>
+      <h3 class="ui ui__third-header">Заголовок №3</h3>
+      <p>Наши коллеги из EJN (Сообщества этичной журналистики) создали тест с помощью которого можно оценить потенциальное воздействие
+      оскорбительного и провокационного материала. Вы наверняка и так все это знаете, но крутой дизайн  инфографики просто обязывает
+      просмотреть информацию еще раз!</p>
+    </div>
+  </main>
+
+  <aside class="sidebar" role="complementary">
+
+  </aside>
+
+  <footer class="footer" role="contentinfo">
+
+  </footer>
+
+  <link href="assets/css/style.min.css" rel="stylesheet">
+  <script src="assets/js/bundle.js"></script>
+
+  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+  <script>
+    (function (b, o, i, l, e, r) {
+    b.GoogleAnalyticsObject = l; b[l] || (b[l] =
+      function () { (b[l].q = b[l].q || []).push(arguments) }); b[l].l = +new Date;
+      e = o.createElement(i); r = o.getElementsByTagName(i)[0];
+      e.src = '//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e, r)
+    }(window, document, 'script', 'ga'));
+    ga('create', 'UA-XXXXX-X'); ga('send', 'pageview');
+  </script>
+</body>
+
+</html>

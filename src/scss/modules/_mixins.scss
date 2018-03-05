@@ -1,0 +1,38 @@
+@media only screen and (min-width:320px) {}
+
+@media only screen and (min-width:480px) {}
+
+@media only screen and (min-width:768px) {}
+
+@media only screen and (min-width:1024px) {}
+
+@media only screen and (min-width:1140px) {}
+
+@media only screen and (min-width:1280px) {}
+
+@media print,
+(-o-min-device-pixel-ratio: 5/4),
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 120dpi) {}
+
+
+@mixin h1 {
+  font-size: 2.6153846rem;
+  line-height: 3.2307692rem;
+  margin-top: 1.6153846rem;
+  margin-bottom: 1.6153846rem;
+}
+
+@mixin h2 {
+  font-size: 1.6153846rem;
+  line-height: 1.6153846rem;
+  margin-top: 1.6153846rem;
+  margin-bottom: 1.6153846rem;
+}
+
+@mixin h3 {
+  font-size: 1rem;
+  line-height: 1.6153846rem;
+  margin-top: 1.6153846rem;
+  margin-bottom: 0rem;
+}

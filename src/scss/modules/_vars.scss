@@ -1,0 +1,29 @@
+// vatiables
+:root {
+  --color-black: #111;
+  --color-white: #fff;
+  --color-gray-light: #ccc;
+  --color-gray-middle: #777;
+  --color-gray-dark: #3a3a3b;
+  --color-yellow: #f39200;
+  --color-red: #e64136;
+  --color-blue: #009a93;
+  --container-width: 1280px;
+}
+@media only screen and (max-width: 1320px) {
+  :root {
+    --container-width: 1120px;
+  }
+}
+@media only screen and (max-width: 1180px) {
+  :root {
+    --container-width: 640px;
+  }
+}
+
+$transition: all 0.3s ease;
+$transition-in: all 0.3s ease-in;
+$transition-out: all 0.3s ease-out;
+
+$font-serif: 'Merriweather', serif;
+$font-sans: 'Open Sans', sans-serif;

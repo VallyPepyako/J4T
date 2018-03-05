@@ -1,0 +1,149 @@
+{
+  "data": {
+    "test" : "ololo",
+    "navigation": [
+      {
+        "name": "новости",
+        "url": "/novosty"
+      },
+      {
+        "name": "О нас",
+        "url": "/about.html"
+      },
+      {
+        "name": "Наши исследования",
+        "url": "/reserch.html"
+      },
+      {
+        "name": "Журналистам",
+        "url": "/journalist.html"
+      },
+      {
+        "name": "конкурс",
+        "url": "/game.html"
+      },
+      {
+        "name": "контакты",
+        "url": "/contacts.html"
+      },
+      {
+        "name": "SOS",
+        "url": "#"
+      }
+    ],
+    "articles": [
+      {
+        "date": "15.11.17",
+        "title": "Pelosi, Schumer pull out of White House meeting over spending",
+        "category": "any category",
+        "tag": "Travel",
+        "subTitle": "President Trump, photographed in the Oval Office on Nov. 27, 2017. (Jabin Botsford/The Washington Post)",
+        "author": "Ed O'Keefe",
+        "image": "https://meduza.io/image/attachments/images/002/651/119/large/C02pTIvWZIT8I8FDEpnLcA.jpg",
+        "discription": "Congressional Democrats have backed out of a scheduled meeting with President Trump, saying they will focus instead on negotiating directly with top Republican leaders to avoid a federal shutdown.",
+        "text": "Congressional Democrats have backed out of a scheduled meeting with President Trump, saying they will focus instead on negotiating directly with top Republican leaders to avoid a federal shutdown.",
+        "type": "fill"
+      },
+      {
+        "date": "15.11.17",
+        "title": "The Finance 202: Trump antagonists and Arizona senators are key to tax plan's success",
+        "subTitle": "President Trump, photographed in the Oval Office on Nov. 27, 2017. (Jabin Botsford/The Washington Post)",
+        "category": "any category",
+        "tag": "Theatre",
+        "image": "https://meduza.io/image/attachments/images/002/651/709/large/eoHNYjRRNeu4TkfWsNOIVg.jpg",
+        "author": "Ed O'Keefe",
+        "discription": "Under normal circumstances, Arizona’s Republican senators would be easy gets for the Senate GOP tax bill. ",
+        "text": "Their resistance promises to thrust the Grand Canyon State duo into a starring role in the drama unfolding this week in the Senate, as leaders race to salvage the party’s legislative agenda. And it demonstrates how far through the looking glass we’ve passed in a matter of months that such a bedrock conservative project could be bleeding Republican support just as it takes center stage in the upper chamber."
+      },
+      {
+        "date": "15.11.17",
+        "title": "A woman approached The Post with dramatic — and false — tale about Roy Moore.",
+        "subTitle": "President Trump, photographed in the Oval Office on Nov. 27, 2017. (Jabin Botsford/The Washington Post)",
+        "category": "any category",
+        "tag": "Theatre",
+        "image": "https://meduza.io/image/attachments/images/002/649/958/large/Movznno8VrwcWMbTsFM5Ow.jpg",
+        "author": "Ed O'Keefe",
+        "discription": "Under normal circumstances, Arizona’s Republican senators would be easy gets for the Senate GOP tax bill. ",
+        "text": "Their resistance promises to thrust the Grand Canyon State duo into a starring role in the drama unfolding this week in the Senate, as leaders race to salvage the party’s legislative agenda. And it demonstrates how far through the looking glass we’ve passed in a matter of months that such a bedrock conservative project could be bleeding Republican support just as it takes center stage in the upper chamber."
+      },
+      {
+        "date": "15.11.17",
+        "title": "The Daily 202: Trump keeps giving in-kind contributions to Elizabeth Warren’s 2020 campaign-in-waiting",
+        "subTitle": "Warren’s idea seemed prescient a year later when economic calamity struck, and Barack Obama pushed to include it in what became the 2010 Dodd-Frank law. As a special ",
+        "category": "any category",
+        "tag": "Theatre",
+        "image": "https://meduza.io/image/attachments/images/002/649/630/large/wSm4RVtwApbqXd7lJ2Q-Fg.jpg",
+        "author": "Ed O'Keefe",
+        "discription": "Under normal circumstances",
+        "text": "Their resistance promises to thrust the Grand Canyon State duo into a starring role in the drama unfolding this week in the Senate, as leaders race to salvage the party’s legislative agenda. And it demonstrates how far through the looking glass we’ve passed in a matter of months that such a bedrock conservative project could be bleeding Republican support just as it takes center stage in the upper chamber."
+      },
+      {
+        "date": "15.11.17",
+        "title": "Trump vowed to end the ‘war on Christmas.’ Here’s how the White House is decorated this season.",
+        "subTitle": "The sparkle of the holiday season comes to the White House every year, but Donald Trump had promised the country more than twinkling lights and decked halls. As a candidate on the campaign trail, he pledged to end the perceived “War on Christmas.”",
+        "category": "any category",
+        "tag": "Theatre",
+        "image": "https://meduza.io/image/attachments/images/002/651/657/small/HRZ-V4ShT1ydcjqVmOQY2g.jpg",
+        "author": "Ed O'Keefe",
+        "discription": "Under normal circumstances, Arizona’s Republican senators would be easy gets for the Senate GOP tax bill. ",
+        "text": "Their resistance promises to thrust the Grand Canyon State duo into a starring role in the drama unfolding this week in the Senate, as leaders race to salvage the party’s legislative agenda. And it demonstrates how far through the looking glass we’ve passed in a matter of months that such a bedrock conservative project could be bleeding Republican support just as it takes center stage in the upper chamber.",
+        "type": "fill"
+      },
+      {
+        "date": "15.11.17",
+        "title": "The Daily 202: Trump keeps giving in-kind contributions to Elizabeth Warren’s 2020 campaign-in-waiting",
+        "subTitle": "Warren’s idea seemed prescient a year later when economic calamity struck, and Barack Obama pushed to include it in what became the 2010 Dodd-Frank law. As a special ",
+        "image": "https://meduza.io/image/attachments/images/002/649/630/large/wSm4RVtwApbqXd7lJ2Q-Fg.jpg",
+        "author": "Ed O'Keefe",
+        "discription": "Under normal circumstances,",
+        "text": "Their resistance promises to thrust the Grand Canyon State duo into a starring role in the drama unfolding this week in the Senate, as leaders race to salvage the party’s legislative agenda. And it demonstrates how far through the looking glass we’ve passed in a matter of months that such a bedrock conservative project could be bleeding Republican support just as it takes center stage in the upper chamber."
+      }
+    ],
+    "articlesBlocks": [
+      {
+        "date": "15.11.17",
+        "title": "Pelosi, Schumer pull out of White House meeting over spending",
+        "category": "any category",
+        "tag": "Travel",
+        "subTitle": "President Trump, photographed in the Oval Office on Nov. 27, 2017. (Jabin Botsford/The Washington Post)",
+        "author": "Ed O'Keefe",
+        "image": "https://meduza.io/image/attachments/images/002/651/119/large/C02pTIvWZIT8I8FDEpnLcA.jpg",
+        "discription": "Congressional Democrats have backed out of a scheduled meeting with President Trump, saying they will focus instead on negotiating directly with top Republican leaders to avoid a federal shutdown.",
+        "text": "Congressional Democrats have backed out of a scheduled meeting with President Trump, saying they will focus instead on negotiating directly with top Republican leaders to avoid a federal shutdown."
+      },
+      {
+        "date": "15.11.17",
+        "title": "The Finance 202: Trump antagonists and Arizona senators are key to tax plan's success",
+        "subTitle": "President Trump, photographed in the Oval Office on Nov. 27, 2017. (Jabin Botsford/The Washington Post)",
+        "category": "any category",
+        "tag": "Theatre",
+        "image": "https://meduza.io/image/attachments/images/002/651/709/large/eoHNYjRRNeu4TkfWsNOIVg.jpg",
+        "author": "Ed O'Keefe",
+        "discription": "Under normal circumstances, Arizona’s Republican senators would be easy gets for the Senate GOP tax bill. ",
+        "text": "Their resistance promises to thrust the Grand Canyon State duo into a starring role in the drama unfolding this week in the Senate, as leaders race to salvage the party’s legislative agenda. And it demonstrates how far through the looking glass we’ve passed in a matter of months that such a bedrock conservative project could be bleeding Republican support just as it takes center stage in the upper chamber."
+      },
+      {
+        "date": "15.11.17",
+        "title": "A woman approached The Post with dramatic — and false — tale about Roy Moore.",
+        "subTitle": "President Trump, photographed in the Oval Office on Nov. 27, 2017. (Jabin Botsford/The Washington Post)",
+        "category": "any category",
+        "tag": "Theatre",
+        "image": "https://meduza.io/image/attachments/images/002/649/958/large/Movznno8VrwcWMbTsFM5Ow.jpg",
+        "author": "Ed O'Keefe",
+        "discription": "Under normal circumstances, Arizona’s Republican senators would be easy gets for the Senate GOP tax bill. ",
+        "text": "Their resistance promises to thrust the Grand Canyon State duo into a starring role in the drama unfolding this week in the Senate, as leaders race to salvage the party’s legislative agenda. And it demonstrates how far through the looking glass we’ve passed in a matter of months that such a bedrock conservative project could be bleeding Republican support just as it takes center stage in the upper chamber."
+      },
+      {
+        "date": "15.11.17",
+        "title": "The Daily 202: Trump keeps giving in-kind contributions to Elizabeth Warren’s 2020 campaign-in-waiting",
+        "subTitle": "Warren’s idea seemed prescient a year later when economic calamity struck, and Barack Obama pushed to include it in what became the 2010 Dodd-Frank law. As a special ",
+        "category": "any category",
+        "tag": "Theatre",
+        "image": "https://meduza.io/image/attachments/images/002/649/630/large/wSm4RVtwApbqXd7lJ2Q-Fg.jpg",
+        "author": "Ed O'Keefe",
+        "discription": "Under normal circumstances",
+        "text": "Their resistance promises to thrust the Grand Canyon State duo into a starring role in the drama unfolding this week in the Senate, as leaders race to salvage the party’s legislative agenda. And it demonstrates how far through the looking glass we’ve passed in a matter of months that such a bedrock conservative project could be bleeding Republican support just as it takes center stage in the upper chamber."
+      }
+    ]
+  }
+}

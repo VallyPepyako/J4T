@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+// helpers
+// helers--clear-fix
+%clear {
+  content: ' ';
+  display: table;
+}
+.clear {
+  *zoom: 1;
+  &:before {
+    @extend %clear;
+  }
+  &:after {
+    @extend %clear;
+    clear: both;
+  }
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px);
+}
+
+//settings
+// selection color
+// ::selection {
+//   background: #333;
+//   color: #fff;
+//   text-shadow: none;
+// }
+
+// ::-moz-selection {
+//   background: #333;
+//   color: #fff;
+//   text-shadow: none;
+// }
+
+// ::-webkit-selection {
+//   background: #333;
+//   color: #fff;
+//   text-shadow: none;
+// }
+
+
+

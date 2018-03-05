@@ -1,0 +1,48 @@
+.jft_header {
+  width: 100%;
+  display: flex;
+  box-shadow: 0px 2px 0px 0px var(--color-gray-middle);
+  @media only screen and (max-width: 1180px) {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.jft_logo {
+  display: block;
+  padding: 0.75rem 0;
+  margin-left: auto;
+  margin-right: auto;
+  &--footer {
+    text-align: center;
+  }
+  &__image {
+    width: 100%;
+    max-width: 141px;
+  }
+}
+.jft_banner {
+  width: 100%;
+  position: relative;
+  &__image {
+    max-height: 160px;
+    object-fit: cover;
+    object-position: top;
+    @media only screen and (max-width: 1180px) {
+      max-height: 100%;
+    }
+  }
+  &--top {
+    padding: 0.75rem 0 0.75rem 1.5rem;
+    @media only screen and (max-width: 1180px) {
+      padding: 0 0 0.75rem 0;
+    }
+  }
+  & > div, iframe, blockqote {
+    position: absolute;
+    left: 1.5rem;
+    right: 0;
+    bottom: 0.75rem;
+    top: 0.75rem;
+  }
+}

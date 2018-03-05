@@ -1,0 +1,24 @@
+.j4t_article-category {
+  padding: 0.75rem 0 0 0;
+  &--shadow-red {
+    box-shadow: 0px -2px 0px 0px var(--color-red);
+  }
+  &--shadow-blue {
+    box-shadow: 0px -2px 0px 0px var(--color-blue);
+  }
+  &--shadow-yellow {
+    box-shadow: 0px -2px 0px 0px var(--color-yellow);
+  }
+  &__header {
+    @include h2;
+    margin-top: 0;
+    margin-bottom: 0.8rem;
+    font-family: serif;
+    color: var(--color-gray-middle);
+  }
+  &__articles {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+}
